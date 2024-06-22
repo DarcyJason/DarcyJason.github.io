@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Homery's blog</title><link>https://DarcyJason.github.io/darcyjson.github.io</link><description>Summary for what I have learned.</description><copyright>Homery's blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://DarcyJason.github.io/darcyjson.github.io</link></image><lastBuildDate>Sat, 22 Jun 2024 06:54:22 +0000</lastBuildDate><managingEditor>Homery's blog</managingEditor><ttl>60</ttl><webMaster>Homery's blog</webMaster><item><title>GitHub CLI</title><link>https://DarcyJason.github.io/darcyjson.github.io/post/GitHub%20CLI.html</link><description># GitHub CLI&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Homery's blog</title><link>https://DarcyJason.github.io/darcyjson.github.io</link><description>Summary for what I have learned.</description><copyright>Homery's blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://DarcyJason.github.io/darcyjson.github.io</link></image><lastBuildDate>Sat, 22 Jun 2024 06:57:13 +0000</lastBuildDate><managingEditor>Homery's blog</managingEditor><ttl>60</ttl><webMaster>Homery's blog</webMaster><item><title>GitHub CLI</title><link>https://DarcyJason.github.io/darcyjson.github.io/post/GitHub%20CLI.html</link><description># GitHub CLI&#13;
 &#13;
 ## 先决条件&#13;
 &#13;
@@ -15,20 +15,20 @@
 ## 常用命令&#13;
 &#13;
 ### 1.查看状态&#13;
-`git status`&#13;
+`gh status`&#13;
 &#13;
 ### 2.克隆存储库&#13;
-`git repo clone OWNER/REPO` 将其存储库克隆到本地计算机中&#13;
+`gh repo clone OWNER/REPO` 将其存储库克隆到本地计算机中&#13;
 &#13;
 ### 3.创建存储库&#13;
-`git repo create` 根据提示创建自己的存储库&#13;
+`gh repo create` 根据提示创建自己的存储库&#13;
 &#13;
 ### 4.处理问题&#13;
-`git issue list --repo OWNER/REPO` 列出当前为指定存储库打开的最近创建的问题&#13;
+`gh issue list --repo OWNER/REPO` 列出当前为指定存储库打开的最近创建的问题&#13;
 若在本地Git存储库运行`issue`命令则可以省略--repo OWNER/REPO的命令&#13;
 &#13;
 ### 5.处理拉取请求&#13;
-`git pr list --repo OWNER/REPO` 列出当前为指定存储库打开的最近创建的拉取请求&#13;
+`gh pr list --repo OWNER/REPO` 列出当前为指定存储库打开的最近创建的拉取请求&#13;
 若在本地Git存储库运行`pr`命令则可以省略--repo OWNER/REPO的命令&#13;
 &#13;
 ### 6.处理codespace&#13;
