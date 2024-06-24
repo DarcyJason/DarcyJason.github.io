@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Homery's blog</title><link>https://darcyjason.github.io</link><description>Summary for what I have learned.</description><copyright>Homery's blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://darcyjason.github.io</link></image><lastBuildDate>Mon, 24 Jun 2024 14:53:48 +0000</lastBuildDate><managingEditor>Homery's blog</managingEditor><ttl>60</ttl><webMaster>Homery's blog</webMaster><item><title>Vue.js</title><link>https://darcyjason.github.io/post/Vue.js.html</link><description># Vue.js&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Homery's blog</title><link>https://darcyjason.github.io</link><description>Summary for what I have learned.</description><copyright>Homery's blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://darcyjason.github.io</link></image><lastBuildDate>Mon, 24 Jun 2024 14:54:14 +0000</lastBuildDate><managingEditor>Homery's blog</managingEditor><ttl>60</ttl><webMaster>Homery's blog</webMaster><item><title>Vue.js</title><link>https://darcyjason.github.io/post/Vue.js.html</link><description># Vue.js&#13;
 &#13;
 ## 安装Vue.js&#13;
 &#13;
@@ -105,7 +105,7 @@
 ## 安装Rust&#13;
 详情请见https://github.com/DarcyJason/Rust。</description><guid isPermaLink="true">https://darcyjason.github.io/post/Rust-yu-yan.html</guid><pubDate>Sat, 22 Jun 2024 03:47:04 +0000</pubDate></item><item><title>Go语言</title><link>https://darcyjason.github.io/post/Go-yu-yan.html</link><description># Go语言&#13;
 &#13;
-## 安装Go&#13;
+## 安装&#13;
 详情请见 https://github.com/DarcyJason/Go。</description><guid isPermaLink="true">https://darcyjason.github.io/post/Go-yu-yan.html</guid><pubDate>Sat, 22 Jun 2024 03:46:33 +0000</pubDate></item><item><title>Python语言</title><link>https://darcyjason.github.io/post/Python-yu-yan.html</link><description># Python语言&#13;
 &#13;
 ## 安装&#13;

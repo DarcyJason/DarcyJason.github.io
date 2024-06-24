@@ -1,4 +1,4 @@
 # Go语言
 
-## 安装Go
+## 安装
 详情请见 https://github.com/DarcyJason/Go
