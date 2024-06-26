@@ -1,10 +1,8 @@
-# Cloudflare指南
-
-## 使用Cloudflare（CLI）搭建Web应用
-### 1.安装
+# 使用Cloudflare（CLI）搭建Web应用
+## 1.安装
 根据官网安装Wrangler
 
-### 2.认证
+## 2.认证
 首先创建个人API TOKEN，复制下来并保存在你认为比较安全的地方，因为其API TOKEN无法进行二次查看，请一定妥善保管
 
 再打开本地终端应用
@@ -20,5 +18,5 @@
 
 **将以上命令中的YOUR_API_TOKEN全都替换成你刚创建的API TOKEN**
 
-### 3.使用
+## 3.使用
 输入`npm create cloudflare@latest`命令，根据其提示信息选择并搭建你的Web框架应用，并将其部署到Cloudflare上
