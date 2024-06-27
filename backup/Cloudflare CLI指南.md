@@ -22,4 +22,4 @@
 输入`npm create cloudflare@latest`命令，根据其提示信息选择并搭建你的Web框架应用，并将其部署到Cloudflare上
 
 ## 4.更新（以vue框架的web为例）
-进入你本地的wrangler项目中，输入npm run build命令后，只需再输入wrangler pages deploy ./dist后，便可以更新你部署的网站
+进入你本地的wrangler项目中，输入`npm run build`命令后，只需再输入`wrangler pages deploy ./dist`后，便可以更新你部署的网站
